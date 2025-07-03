@@ -31,8 +31,8 @@ from PyQt5.QtGui import QIcon, QKeySequence, QPalette, QColor, QCursor
 from PyQt5.QtPrintSupport import QPrinter, QPrintDialog
 
 # Constants
-APP_NAME = "GyaradosAI"
-VERSION = "3.0.0"
+APP_NAME = "Gyarados Browser"
+VERSION = "2.3.0"
 DEFAULT_WINDOW_SIZE = QSize(1280, 720)
 
 # Logging Setup
